@@ -1,0 +1,20 @@
+{
+  "name": "psr_reports_api",
+  "version": "1.0.0",
+  "description": "PSR Reports App",
+  "homepage": "https://github.com/sunilGSDLHO/psr_reports_api#readme",
+  "bugs": {
+    "url": "https://github.com/sunilGSDLHO/psr_reports_api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilGSDLHO/psr_reports_api.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
